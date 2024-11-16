@@ -1,8 +1,8 @@
 # SEMANTIC-HTML
 
-Nama  : Kustiawan Harit Kusuma
-NIM   : 2305101129
-Kelas : TIF 5D
+1. Nama   : Kustiawan Harit Kusuma
+2. NIM    : 2305101129
+3. Kelas  : TIF 5D
 
 Latihan Praktikum Semantic HTML
 
